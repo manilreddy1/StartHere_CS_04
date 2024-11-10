@@ -16,4 +16,4 @@ This project is a simple network packet analyzer developed to capture and analyz
 ## Usage
 To run the packet analyzer, execute the following command in the terminal:
 ```bash
-python network_packet_analyzer.py
+python https://github.com/manilreddy1/StartHere_CS_04.git
