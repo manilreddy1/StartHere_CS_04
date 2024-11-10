@@ -19,5 +19,5 @@ This tool is for educational and testing purposes only. Do not use it on network
 ## Usage
 To start the packet capture, run the following command:
 ```bash
-python [network_packet_analyzer.py](https://github.com/manilreddy1/StartHere_CS_04.git)
+python https://github.com/manilreddy1/StartHere_CS_04.git
 
